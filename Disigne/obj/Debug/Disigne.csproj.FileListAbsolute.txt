@@ -1,0 +1,16 @@
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\Disigne.exe.config
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\Disigne.exe
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\Disigne.pdb
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.csproj.SuggestedBindingRedirects.cache
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\MainWindow.g.cs
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\App.g.cs
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\MainWindow.baml
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.g.resources
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.Properties.Resources.resources
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.exe
+C:\Users\UnderKo\source\repos\EasyEditor\Disigne\obj\Debug\Disigne.pdb

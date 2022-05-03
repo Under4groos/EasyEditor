@@ -1,0 +1,11 @@
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\bin\Debug\EasyEditorLib.dll
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\bin\Debug\EasyEditorLib.pdb
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\obj\Debug\EasyEditorLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\obj\Debug\EasyEditorLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\obj\Debug\EasyEditorLib.dll
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\obj\Debug\EasyEditorLib.pdb
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UnderKo\source\repos\EasyEditor\EasyEditorLib\obj\Debug\EasyEditorLib.csproj.CopyComplete
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\EasyEditorLib.dll
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\EasyEditorLib.pdb

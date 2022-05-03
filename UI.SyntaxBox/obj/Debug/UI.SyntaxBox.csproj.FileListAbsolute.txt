@@ -1,0 +1,13 @@
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\UI.SyntaxBox.dll
+C:\Users\UnderKo\source\repos\EasyEditor\Compile\UI.SyntaxBox.pdb
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox_MarkupCompile.cache
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox_MarkupCompile.lref
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\Resources.baml
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.g.resources
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.Properties.Resources.resources
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.dll
+C:\Users\UnderKo\source\repos\EasyEditor\UI.SyntaxBox\obj\Debug\UI.SyntaxBox.pdb
